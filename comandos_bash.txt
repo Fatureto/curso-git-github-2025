@@ -3,3 +3,10 @@ cd -> move entre diretórios
 pwd -> mostra diretório atual
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório...
+
+
+fodase
+
+
+
+
