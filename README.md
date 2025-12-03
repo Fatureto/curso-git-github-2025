@@ -6,3 +6,7 @@ Curso de git e github çkjkjç
 hjhhj
 jhlhkljh
 kjhlkjhl
+
+pessoas participantes:
+
+- fabio Humberto fatureto
